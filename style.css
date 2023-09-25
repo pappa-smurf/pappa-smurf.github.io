@@ -1,20 +1,20 @@
 body {
-            margin: 0;
-            padding: 0;
-            background-color: #000000;
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-        }
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
 
 h1 {
     font-size: 3rem;
     font-family: 'Calibri', sans-serif;
     user-select: none;
-    text-color: #FFFFFF;
+    color: #FFFFFF;
     margin-bottom: 20px;
     opacity: 0;
     animation: fadeIn 2s ease-in-out forwards;
