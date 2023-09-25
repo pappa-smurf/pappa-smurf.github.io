@@ -14,8 +14,7 @@ h1 {
     font-size: 3rem;
     font-family: 'Calibri', sans-serif;
     user-select: none;
-    color: #fff;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5), 0 0 5px rgba(255, 255, 255, 0.5);
+    text-color: #FFFFFF;
     margin-bottom: 20px;
     opacity: 0;
     animation: fadeIn 2s ease-in-out forwards;
