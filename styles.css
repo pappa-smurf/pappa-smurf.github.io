@@ -1,1 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
 
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.title {
+    margin: 0;
+}
+
+.button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+#start {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input[type="number"], input[type="text"], input[type="checkbox"] {
+    padding: 5px;
+}
+
+#names {
+    display: none;
+}
+
+#stats, #day, #corn, #deaths, #winner {
+    display: none;
+}
+
+#summary {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buttonTwo {
+    margin: 10px;
+}
